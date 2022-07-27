@@ -2,7 +2,7 @@
  * Global application config file
  */
 const appConfig = {
-  postsPerPage: 9,
+  postsPerPage: 30,
   /**
    * Displays a default Featured Image when a Post does not have one
    */
